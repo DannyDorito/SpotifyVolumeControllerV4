@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyVolumeControllerV4", "SpotifyVolumeControllerV4.csproj", "{4E824A1B-F391-4FFA-931C-D89FE0A39833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseWheelHelperLib", "..\MouseWheelHelper\MouseWheelHelperLib.csproj", "{814B0EE6-82CC-4C5F-B422-B6776D1C0FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E824A1B-F391-4FFA-931C-D89FE0A39833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E824A1B-F391-4FFA-931C-D89FE0A39833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E824A1B-F391-4FFA-931C-D89FE0A39833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E824A1B-F391-4FFA-931C-D89FE0A39833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814B0EE6-82CC-4C5F-B422-B6776D1C0FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814B0EE6-82CC-4C5F-B422-B6776D1C0FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814B0EE6-82CC-4C5F-B422-B6776D1C0FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814B0EE6-82CC-4C5F-B422-B6776D1C0FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188223FE-389A-4089-9944-639046FCE7EE}
+	EndGlobalSection
+EndGlobal
