@@ -37,7 +37,7 @@ namespace MouseWheelHelperLib
 
         private void Scroll(object sender, MouseEventExtArgs e)
         {
-
+            // do something
         }
 
         private void Unsubscribe()

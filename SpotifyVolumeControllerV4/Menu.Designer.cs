@@ -35,7 +35,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Menu";
+            this.Name = "Spotify Volume Controller";
             this.Text = "Spotify Volume Controller";
             this.ResumeLayout(false);
 
